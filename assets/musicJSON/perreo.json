@@ -1,0 +1,651 @@
+[
+    {
+        "id":1,
+        "playlist":"Reggaeton",
+        "artista":"Arcangel",
+        "nombre" : "50 Sombras De Austin",
+        "url":"assets/music/perreo/50 Sombras De Austin - Arcangel (Letra) Original 2015 - from YouTube.mp3",
+        "duracion":209
+    },
+    {
+        "id":2,
+        "playlist":"Reggaeton",
+        "artista":"Aldo Ranks",
+        "nombre" : "A Que No Te Atreves",
+        "url":"assets/music/perreo/Aldo Ranks - A Que No Te Atreves (Video Oficial HD) - from YouTube.mp3",
+        "duracion":344
+    },
+    {
+        "id":3,
+        "playlist":"Reggaeton",
+        "artista":"Alkilados Ft J Balvin",
+        "nombre" : "Esto es Amor",
+        "url":"assets/music/perreo/Alkilados Ft J Balvin - Esto es Amor (Official Remix) - from YouTube.mp3",
+        "duracion":198
+    },
+    {
+        "id":4,
+        "playlist":"Reggaeton",
+        "artista":"Arcángel",
+        "nombre" : "Hace Mucho Tiempo",
+        "url":"assets/music/perreo/Arcángel - Hace Mucho Tiempo - from YouTube.mp3",
+        "duracion":200
+    },
+    {
+        "id":5,
+        "playlist":"Reggaeton",
+        "artista":"Yandel feat. El General Gadiel and Farruko",
+        "nombre" : "Plakito",
+        "url":"assets/music/perreo/Yandel feat. El General Gadiel and Farruko - Plakito - from YouTube (2).mp3",
+        "duracion":298
+    },
+
+    {
+        "id":6,
+        "playlist":"Reggaeton",
+        "artista":"Arcangel",
+        "nombre" : "Me Prefieres a Mi",
+        "url":"assets/music/perreo/Arcangel - Me Prefieres a Mi (Official Video) - from YouTube.mp3",
+        "duracion":254
+    },
+    {
+        "id":7,
+        "playlist":"Reggaeton",
+        "artista":"Arcangel",
+        "nombre" : "Por Amar A Ciegas",
+        "url":"assets/music/perreo/Arcangel - Por Amar A Ciegas (ArcangelLaMaraviLLa.NeT) - from YouTube.mp3",
+        "duracion":267
+    },
+    {
+        "id":8,
+        "playlist":"Reggaeton",
+        "artista":"Baby Rasta y Gringo",
+        "nombre" : "Amor Prohibido",
+        "url":"assets/music/perreo/Baby Rasta y Gringo - Amor Prohibido (Official Video) 2014 - from YouTube.mp3",
+        "duracion":362
+    },
+    {
+        "id":9,
+        "playlist":"Reggaeton",
+        "artista":"Baby Rasta y Gringo",
+        "nombre" : "No Dices Na",
+        "url":"assets/music/perreo/Baby Rasta y Gringo - No Dices Na Official Music Video @BoyWonderCF.mp3",
+        "duracion":547
+    },
+    {
+        "id":10,
+        "playlist":"Reggaeton",
+        "artista":"Valentino Ft  MTZ Manuel Turizo",
+        "nombre" : "Bésame",
+        "url":"assets/music/perreo/Bésame - Valentino Ft  MTZ Manuel Turizo  Video Lyric.mp3",
+        "duracion":375
+    },
+    {
+        "id":11,
+        "playlist":"Reggaeton",
+        "artista":"Zion y Lennox Ft J Alvarez, Ñengo Flow, LuiG 21 Plus, Ñejo, Franco El Gorila",
+        "nombre" : "Chupop Remix",
+        "url":"assets/music/perreo/Chupop Remix - Zion y Lennox Ft J Alvarez, Ñengo Flow, LuiG 21 Plus, Ñejo, Franco El Gorila - from YouTube.mp3",
+        "duracion":375
+    },
+    {
+        "id":12,
+        "playlist":"Reggaeton",
+        "artista":"Cosculluela",
+        "nombre" : "No Piensas En Mi",
+        "url":"assets/music/perreo/Cosculluela - No Piensas En Mi - from YouTube.mp3",
+        "duracion":216
+    },
+    {
+        "id":13,
+        "playlist":"Reggaeton",
+        "artista":"Cosculluela ft. Jowell Y Randy",
+        "nombre" : "Pa La Pared",
+        "url":"assets/music/perreo/Cosculluela - Pa La Pared ft. Jowell Y Randy - from YouTube.mp3",
+        "duracion":252
+    },
+    {
+        "id":14,
+        "playlist":"Reggaeton",
+        "artista":"Cosculluela feat. Nicky Jam",
+        "nombre" : "Si Me Dices Que Si",
+        "url":"assets/music/perreo/Cosculluela - Si Me Dices Que Si (feat. Nicky Jam) [Audio Oficial].mp3",
+        "duracion":252
+    },
+    {
+        "id":15,
+        "playlist":"Reggaeton",
+        "artista":"Danny Ocean",
+        "nombre" : "Me Rehúso",
+        "url":"assets/music/perreo/Danny Ocean - Me Rehúso (Official Video).mp3",
+        "duracion":252
+    },
+    {
+        "id":16,
+        "playlist":"Reggaeton",
+        "artista":"De La Ghetto",
+        "nombre" : "Dices",
+        "url":"assets/music/perreo/De La Ghetto - Dices (Video Lyric) - from YouTube.mp3",
+        "duracion":252
+    },
+    {
+        "id":17,
+        "playlist":"Reggaeton",
+        "artista":"De La Ghetto",
+        "nombre" : "Excitándonos",
+        "url":"assets/music/perreo/De La Ghetto - Excitándonos - from YouTube.mp3",
+        "duracion":252
+    },
+    {
+        "id":18,
+        "playlist":"Reggaeton",
+        "artista":"De la Ghetto, Farruko",
+        "nombre" : "Mirala",
+        "url":"assets/music/perreo/De la Ghetto, Farruko - Mirala feat. Farruko (Official) ft. Farruko - from YouTube.mp3",
+        "duracion":252
+    },
+    {
+        "id":19,
+        "playlist":"Reggaeton",
+        "artista":"Don Omar ft. Natti Natasha",
+        "nombre" : "Dutty Love",
+        "url":"assets/music/perreo/Don Omar - Dutty Love (Lyric Video) ft. Natti Natasha.mp3",
+        "duracion":252
+    },
+    {
+        "id":20,
+        "playlist":"Reggaeton",
+        "artista":"ALKILADOS FT FARRUKO",
+        "nombre" : "EL ORGULLO",
+        "url":"assets/music/perreo/EL ORGULLO - ALKILADOS FT FARRUKO ( VIDEO OFICIAL) - from YouTube.mp3",
+        "duracion":252
+    },
+    {
+        "id":21,
+        "playlist":"Reggaeton",
+        "artista":"Enrique Iglesias ft. Descemer Bueno, Gente De Zona",
+        "nombre" : "Bailando",
+        "url":"assets/music/perreo/Enrique Iglesias - Bailando ft. Descemer Bueno, Gente De Zona - from YouTube.mp3",
+        "duracion":252
+    },
+    {
+        "id":22,
+        "playlist":"Reggaeton",
+        "artista":"Enrique Iglesias ft. Wisin",
+        "nombre" : "DUELE EL CORAZON",
+        "url":"assets/music/perreo/Enrique Iglesias - DUELE EL CORAZON ft. Wisin.mp3",
+        "duracion":252
+    },
+    {
+        "id":23,
+        "playlist":"Reggaeton",
+        "artista":"Enrique Iglesias ft. Bad Bunny",
+        "nombre" : "EL BAÑO",
+        "url":"assets/music/perreo/Enrique Iglesias - EL BAÑO ft. Bad Bunny.mp3",
+        "duracion":252
+    },
+    {
+        "id":24,
+        "playlist":"Reggaeton",
+        "artista":"FARRUKO",
+        "nombre" : "COSITAS QUE HACIAMOS",
+        "url":"assets/music/perreo/FARRUKO - COSITAS QUE HACIAMOS (OFFICIAL VIDEO) - from YouTube.mp3",
+        "duracion":252
+    },
+    {
+        "id":25,
+        "playlist":"Reggaeton",
+        "artista":"Farruko ft. Sean Paul",
+        "nombre" : "Passion Whine",
+        "url":"assets/music/perreo/Farruko - Passion Whine ft. Sean Paul - from YouTube.mp3",
+        "duracion":252
+    },
+    {
+        "id":26,
+        "playlist":"Reggaeton",
+        "artista":"Farruko ft. Ozi, Kelmitt, Genio, Arcangel, Ñengo Flow",
+        "nombre" : "Salgo",
+        "url":"assets/music/perreo/Farruko - Salgo ft. Ozi, Kelmitt, Genio, Arcangel, Ñengo Flow - from YouTube.mp3",
+        "duracion":252
+    },
+    {
+        "id":27,
+        "playlist":"Reggaeton",
+        "artista":"Farruko Ft Cosculluela",
+        "nombre" : "Ella No Es Facil",
+        "url":"assets/music/perreo/Farruko Ft Cosculluela - Ella No Es Facil (Lyrics)(Corregido).mp3",
+        "duracion":252
+    },
+    {
+        "id":28,
+        "playlist":"Reggaeton",
+        "artista":"Nicky Jam",
+        "nombre" : "Hasta el Amanecer",
+        "url":"assets/music/perreo/Hasta el Amanecer - Nicky Jam  Video Oficial.mp3",
+        "duracion":252
+    },
+    {
+        "id":29,
+        "playlist":"Reggaeton",
+        "artista":"Farruko Ft. Daddy Yankee Jory  J Alvarez",
+        "nombre" : "Hoy (Remix)",
+        "url":"assets/music/perreo/Hoy (Remix) - Farruko Ft. Daddy Yankee Jory  J Alvarez ◄NEW ® 2011.mp3",
+        "duracion":252
+    },
+    {
+        "id":30,
+        "playlist":"Reggaeton",
+        "artista":"J Alvarez",
+        "nombre" : "Amor En Practica",
+        "url":"assets/music/perreo/J Alvarez - Amor En Practica - from YouTube.mp3",
+        "duracion":252
+    },
+    {
+        "id":31,
+        "playlist":"Reggaeton",
+        "artista":"J Alvarez",
+        "nombre" : "Dándote Calor",
+        "url":"assets/music/perreo/J Alvarez - Dándote Calor - from YouTube.mp3",
+        "duracion":252
+    },
+    {
+        "id":32,
+        "playlist":"Reggaeton",
+        "artista":"J Alvarez",
+        "nombre" : "Nada Es Eterno",
+        "url":"assets/music/perreo/J Alvarez - Nada Es Eterno - from YouTube.mp3",
+        "duracion":252
+    },
+    {
+        "id":33,
+        "playlist":"Reggaeton",
+        "artista":"J Alvarez",
+        "nombre" : "Tu Cuerpo Pide Fiesta",
+        "url":"assets/music/perreo/J Alvarez - Tu Cuerpo Pide Fiesta - from YouTube.mp3",
+        "duracion":252
+    },
+    {
+        "id":34,
+        "playlist":"Reggaeton",
+        "artista":"J Balvin ft. Farruko",
+        "nombre" : "6 AM",
+        "url":"assets/music/perreo/J Balvin - 6 AM ft. Farruko - from YouTube.mp3",
+        "duracion":252
+    },
+    {
+        "id":35,
+        "playlist":"Reggaeton",
+        "artista":"J Balvin",
+        "nombre" : "Bobo",
+        "url":"assets/music/perreo/J Balvin - Bobo.mp3",
+        "duracion":252
+    },
+    {
+        "id":36,
+        "playlist":"Reggaeton",
+        "artista":"J Alvarez",
+        "nombre" : "Se Acabo El Amor",
+        "url":"assets/music/perreo/J. Alvarez - Se Acabo El Amor - from YouTube.mp3",
+        "duracion":252
+    },
+    {
+        "id":37,
+        "playlist":"Reggaeton",
+        "artista":"J. Balvin",
+        "nombre" : "Ambiente",
+        "url":"assets/music/perreo/J. Balvin - Ambiente.mp3",
+        "duracion":252
+    },
+    {
+        "id":38,
+        "playlist":"Reggaeton",
+        "artista":"J. Balvin",
+        "nombre" : "Ay Vamos",
+        "url":"assets/music/perreo/J. Balvin - Ay Vamos - from YouTube.mp3",
+        "duracion":252
+    },
+    {
+        "id":39,
+        "playlist":"Reggaeton",
+        "artista":"Jason Derulo feat. Snoop Dogg",
+        "nombre" : "Wiggle",
+        "url":"assets/music/perreo/Jason Derulo - -Wiggle- feat. Snoop Dogg (Official HD Music Video) - from YouTube.mp3",
+        "duracion":252
+    },
+    {
+        "id":40,
+        "playlist":"Reggaeton",
+        "artista":"Jowell y Randy",
+        "nombre" : "Lo Que Quiero",
+        "url":"assets/music/perreo/Jowell y Randy - Lo Que Quiero Official Video - from YouTube.mp3",
+        "duracion":252
+    },
+    {
+        "id":41,
+        "playlist":"Reggaeton",
+        "artista":"Jowell y Randy ft. Cultura Profetica",
+        "nombre" : "Solo Por Ti (Official Remix)",
+        "url":"assets/music/perreo/Jowell y Randy ft. Cultura Profetica-Solo Por Ti (Official Remix)(Official Video) - from YouTube.mp3",
+        "duracion":252
+    },
+    {
+        "id":42,
+        "playlist":"Reggaeton",
+        "artista":"Jowell_y_Randy",
+        "nombre" : "Vamo_A_Abusal",
+        "url":"assets/music/perreo/Jowell_y_Randy_ndash_Vamo_A_Abusal_Prod_By_DJ_Blass_vmusice.net.mp3",
+        "duracion":252
+    },
+    {
+        "id":43,
+        "playlist":"Reggaeton",
+        "artista":"Kendo Kaponi Feat Baby Rasta",
+        "nombre" : "Llamala",
+        "url":"assets/music/perreo/Kendo Kaponi Feat Baby Rasta - Llamala (Official Video) - from YouTube.mp3",
+        "duracion":252
+    },
+    {
+        "id":44,
+        "playlist":"Reggaeton",
+        "artista":"ARCANGEL FT. DADDY YANKEE",
+        "nombre" : "LA DUPLETA",
+        "url":"assets/music/perreo/LA DUPLETA    ARCANGEL FT. DADDY YANKEE - from YouTube.mp3",
+        "duracion":252
+    },
+    {
+        "id":45,
+        "playlist":"Reggaeton",
+        "artista":"J Alvarez",
+        "nombre" : "La Pregunta",
+        "url":"assets/music/perreo/La Pregunta J Alvarez (LETRA).mp3",
+        "duracion":252
+    },
+    {
+        "id":46,
+        "playlist":"Reggaeton",
+        "artista":"Oveja Negra Ft. Varios Artistas",
+        "nombre" : "Le Gusta El DanceHall Remix",
+        "url":"assets/music/perreo/Le Gusta El DanceHall Remix - Oveja Negra Ft. Varios Artistas (Video Selfie) @OvejaNegra593 - from YouTube.mp3",
+        "duracion":252
+    },
+    {
+        "id":47,
+        "playlist":"Reggaeton",
+        "artista":"LuiG21 Plus Ft Ñejo y Dalmata, Ñengo Flow, J Alvarez, Franco el Gorila",
+        "nombre" : "Mujeres Talentosas",
+        "url":"assets/music/perreo/Mujeres Talentosas - LuiG21 Plus Ft Ñejo y Dalmata, Ñengo Flow, J Alvarez, Franco el Gorila - from YouTube.mp3",
+        "duracion":252
+    },
+    {
+        "id":48,
+        "playlist":"Reggaeton",
+        "artista":"Nicky Jam x J. Balvin",
+        "nombre" : "X (EQUIS)",
+        "url":"assets/music/perreo/Nicky Jam x J. Balvin - X (EQUIS)  Video Oficial.mp3",
+        "duracion":252
+    },
+    {
+        "id":49,
+        "playlist":"Reggaeton",
+        "artista":"Valentino ft J Alvarez, Nicky Jam y Ñejo",
+        "nombre" : "No llores Mas Remix",
+        "url":"assets/music/perreo/No llores Mas Remix - Valentino ft J Alvarez, Nicky Jam y Ñejo ( Vídeo Oficial ) - from YouTube.mp3",
+        "duracion":252
+    },
+    {
+        "id":50,
+        "playlist":"Reggaeton",
+        "artista":"J Quiles Ft Kevin Roldan",
+        "nombre" : "NUNCA IMAGINE",
+        "url":"assets/music/perreo/NUNCA IMAGINE - J Quiles Ft Kevin Roldan - from YouTube.mp3",
+        "duracion":252
+    },
+    {
+        "id":51,
+        "playlist":"Reggaeton",
+        "artista":"Ñejo ft. Ñengo Flow, Jetson El Super, Sniper S",
+        "nombre" : "Mujeres y Chavos",
+        "url":"assets/music/perreo/Ñejo - Mujeres y Chavos ft. Ñengo Flow, Jetson El Super, Sniper SP.mp3",
+        "duracion":252
+    },
+    {
+        "id":52,
+        "playlist":"Reggaeton",
+        "artista":"J Quiles Ft Kevin Roldan",
+        "nombre" : "NUNCA IMAGINE",
+        "url":"assets/music/perreo/NUNCA IMAGINE - J Quiles Ft Kevin Roldan - from YouTube.mp3",
+        "duracion":252
+    },
+    {
+        "id":53,
+        "playlist":"Reggaeton",
+        "artista":"ÑEJO",
+        "nombre" : "Y SI LA VES",
+        "url":"assets/music/perreo/ÑEJO - Y SI LA VES.mp3",
+        "duracion":252
+    },
+    {
+        "id":54,
+        "playlist":"Reggaeton",
+        "artista":"Ñengo Flow Ft Jory",
+        "nombre" : "Diri Diri",
+        "url":"assets/music/perreo/Ñengo Flow Ft Jory - Diri Diri (CON LETRA).mp3",
+        "duracion":252
+    },
+    {
+        "id":55,
+        "playlist":"Reggaeton",
+        "artista":"Ozuna",
+        "nombre" : "Te Vas",
+        "url":"assets/music/perreo/Ozuna - Te Vas.mp3",
+        "duracion":252
+    },
+    {
+        "id":56,
+        "playlist":"Reggaeton",
+        "artista":"Arcangel Ft. Daddy Yankee",
+        "nombre" : "Pacas de 100",
+        "url":"assets/music/perreo/Pacas de 100 - Arcangel Ft. Daddy Yankee (Original) Letra - Lyrics - from YouTube.mp3",
+        "duracion":252
+    },
+    {
+        "id":57,
+        "playlist":"Reggaeton",
+        "artista":"Paulo Londra",
+        "nombre" : "Forever Alone",
+        "url":"assets/music/perreo/Paulo Londra - Forever Alone (Official Video).mp3",
+        "duracion":252
+    },
+    {
+        "id":58,
+        "playlist":"Reggaeton",
+        "artista":"Paulo Londra",
+        "nombre" : "Tal Vez",
+        "url":"assets/music/perreo/Paulo Londra - Tal Vez (Official Video).mp3",
+        "duracion":252
+    },
+    {
+        "id":59,
+        "playlist":"Reggaeton",
+        "artista":"Paulo Londra ft Lenny Tavarez",
+        "nombre" : "Nena Maldicion",
+        "url":"assets/music/perreo/Paulo Londra ft Lenny Tavarez - Nena Maldicion (Letra).mp3",
+        "duracion":252
+    },
+    {
+        "id":60,
+        "playlist":"Reggaeton",
+        "artista":"Piso 21",
+        "nombre" : "Besándote",
+        "url":"assets/music/perreo/Piso 21 - Besándote (Video Oficial).mp3",
+        "duracion":252
+    },
+    {
+        "id":61,
+        "playlist":"Reggaeton",
+        "artista":"Piso 21 feat. Manuel Turizo",
+        "nombre" : "Déjala Que Vuelva",
+        "url":"assets/music/perreo/Piso 21 - Déjala Que Vuelva (feat. Manuel Turizo) [Video Oficial].mp3",
+        "duracion":252
+    },
+    {
+        "id":62,
+        "playlist":"Reggaeton",
+        "artista":"Piso 21",
+        "nombre" : "La Vida Sin Ti",
+        "url":"assets/music/perreo/Piso 21 - La Vida Sin Ti (Video Oficial).mp3",
+        "duracion":252
+    },
+    {
+        "id":63,
+        "playlist":"Reggaeton",
+        "artista":"Piso 21",
+        "nombre" : "Me llamas",
+        "url":"assets/music/perreo/Piso 21 - Me llamas (Feat. Maluma) [Remix].mp3",
+        "duracion":252
+    },
+    {
+        "id":64,
+        "playlist":"Reggaeton",
+        "artista":"Piso 21 Ft Paulo Londra",
+        "nombre" : "Te Amo",
+        "url":"assets/music/perreo/Piso 21 Ft Paulo Londra - Te Amo.mp3",
+        "duracion":252
+    },
+    {
+        "id":65,
+        "playlist":"Reggaeton",
+        "artista":"Piso 21 ft. Nicky Jam",
+        "nombre" : "Suele Suceder",
+        "url":"assets/music/perreo/PISO 21 ft. Nicky Jam - Suele Suceder (Video Oficial) @Piso21Music - Musica Nueva 2014 - from YouTube.mp3",
+        "duracion":252
+    },
+    {
+        "id":66,
+        "playlist":"Reggaeton",
+        "artista":"Pitbull ft. Don Miguelo",
+        "nombre" : "Como Yo Le Doy",
+        "url":"assets/music/perreo/Pitbull - Como Yo Le Doy ft. Don Miguelo - from YouTube.mp3",
+        "duracion":252
+    },
+    {
+        "id":67,
+        "playlist":"Reggaeton",
+        "artista":"Plan B Ft Dalmata  Ñejo",
+        "nombre" : "Automovil",
+        "url":"assets/music/perreo/Plan B - Automovil (Remix) Ft Dalmata  Ñejo HD [ 2011 ] Video Oficial.mp3",
+        "duracion":252
+    },
+    {
+        "id":68,
+        "playlist":"Reggaeton",
+        "artista":"Plan B",
+        "nombre" : "Fanatica Sensual",
+        "url":"assets/music/perreo/Plan B - Fanatica Sensual - from YouTube.mp3",
+        "duracion":252
+    },
+    {
+        "id":69,
+        "playlist":"Reggaeton",
+        "artista":"Plan_B",
+        "nombre" : "Candy",
+        "url":"assets/music/perreo/Plan_B_--_Candy[ListenVid.com].mp3",
+        "duracion":252
+    },
+    {
+        "id":70,
+        "playlist":"Reggaeton",
+        "artista":"Sammy  Falsetto",
+        "nombre" : "Dile Que Fui Yo",
+        "url":"assets/music/perreo/Sammy  Falsetto - Dile Que Fui Yo.mp3",
+        "duracion":252
+    },
+    {
+        "id":71,
+        "playlist":"Reggaeton",
+        "artista":"El Bebo Yau",
+        "nombre" : "Se Lo Meto",
+        "url":"assets/music/perreo/Se Lo Meto - El Bebo Yau l Reggaeton Nuevo 2014 - from YouTube.mp3",
+        "duracion":252
+    },
+    {
+        "id":72,
+        "playlist":"Reggaeton",
+        "artista":"Sebastián Yatra ft. Dalmata",
+        "nombre" : "SUTRA",
+        "url":"assets/music/perreo/Sebastián Yatra - SUTRA ft. Dalmata.mp3",
+        "duracion":252
+    },
+    {
+        "id":73,
+        "playlist":"Reggaeton",
+        "artista":"Sebastián Yatra",
+        "nombre" : "Traicionera",
+        "url":"assets/music/perreo/Sebastián Yatra - Traicionera.mp3",
+        "duracion":252
+    },
+    {
+        "id":74,
+        "playlist":"Reggaeton",
+        "artista":"Reykon el Líder Feat. Nicky Jam",
+        "nombre" : "Secretos [Remix]",
+        "url":"assets/music/perreo/Secretos [Remix] - Reykon el Líder Feat. Nicky Jam ® - from YouTube.mp3",
+        "duracion":252
+    },
+    {
+        "id":75,
+        "playlist":"Reggaeton",
+        "artista":"Nicky Jam Ft Wisin",
+        "nombre" : "Si Tú La Ves",
+        "url":"assets/music/perreo/Si Tú La Ves - Nicky Jam Ft Wisin (Video Oficial).mp3",
+        "duracion":252
+    },
+    {
+        "id":76,
+        "playlist":"Reggaeton",
+        "artista":"Arcangel",
+        "nombre" : "Tu Cuerpo Me Hace Bien",
+        "url":"assets/music/perreo/Tu Cuerpo Me Hace Bien - Arcangel (Letra) REGGAETON 2015 - from YouTube.mp3",
+        "duracion":252
+    },
+    {
+        "id":77,
+        "playlist":"Reggaeton",
+        "artista":"Manuel Turizo",
+        "nombre" : "Una Lady Como Tú",
+        "url":"assets/music/perreo/Una Lady Como Tú - Manuel Turizo Letra (Lyrics).mp3",
+        "duracion":252
+    },
+    {
+        "id":78,
+        "playlist":"Reggaeton",
+        "artista":"Kevin Roldan Ft Nicky Jam",
+        "nombre" : "Una Noche Mas",
+        "url":"assets/music/perreo/Una Noche Mas - Kevin Roldan Ft Nicky Jam [Video Oficial] - from YouTube.mp3",
+        "duracion":252
+    },
+    {
+        "id":79,
+        "playlist":"Reggaeton",
+        "artista":"Farruko Ft Kendo Kaponi  Arcangel",
+        "nombre" : "Web Cam",
+        "url":"assets/music/perreo/Web Cam (Official Remix) [ORIGINAL  COMPLETA] - Farruko Ft Kendo Kaponi  Arcangel.mp3",
+        "duracion":252
+    },
+    {
+        "id":80,
+        "playlist":"Reggaeton",
+        "artista":"Sebastian Yatra  Mau y Ricky",
+        "nombre" : "Ya no tiene novio",
+        "url":"assets/music/perreo/Ya no tiene novio - Sebastian Yatra  Mau y Ricky (LETRA).mp3",
+        "duracion":252
+    },
+    {
+        "id":81,
+        "playlist":"Reggaeton",
+        "artista":"Yandel",
+        "nombre" : "Déjate Amar",
+        "url":"assets/music/perreo/Yandel - Déjate Amar - from YouTube.mp3",
+        "duracion":252
+    }
+]
