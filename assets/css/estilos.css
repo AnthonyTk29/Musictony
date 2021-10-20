@@ -154,7 +154,7 @@ audio
     text-align: center;
     display: block;
     padding: 10px;
-    font-family: 'Satisfy', sans-serif;
+    font-family: sans-serif;
 }
 .play:hover{
     background: rgba(90, 89, 89, 0.486);
