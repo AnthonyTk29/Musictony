@@ -92,17 +92,17 @@ audio
 {
     margin-top: 2.5%;
     height: 35px;
-background-color: #0828b8;
--webkit-transition:all 0.5s linear;
--moz-transition:all 0.5s linear;
--o-transition:all 0.5s linear;
-transition:all 0.5s linear;
--moz-box-shadow: 2px 2px 4px 0px #006773;
--webkit-box-shadow:  2px 2px 4px 0px #006773;
-box-shadow: 2px 2px 4px 0px #006773;
--moz-border-radius:7px 7px 7px 7px ;
--webkit-border-radius:7px 7px 7px 7px ;
-border-radius:24px 24px 24px 24px ;
+    background-color: #0828b8;
+    -webkit-transition:all 0.5s linear;
+    -moz-transition:all 0.5s linear;
+    -o-transition:all 0.5s linear;
+    transition:all 0.5s linear;
+    -moz-box-shadow: 2px 2px 4px 0px #006773;
+    -webkit-box-shadow:  2px 2px 4px 0px #006773;
+    box-shadow: 2px 2px 4px 0px #006773;
+    -moz-border-radius:7px 7px 7px 7px ;
+    -webkit-border-radius:7px 7px 7px 7px ;
+    border-radius:24px 24px 24px 24px ;
 }
 /*------------------APP----------------------*/
 .app{
@@ -154,7 +154,7 @@ border-radius:24px 24px 24px 24px ;
     text-align: center;
     display: block;
     padding: 10px;
-    font-family: 'Architects Daughter', sans-serif;
+    font-family: 'Satisfy', sans-serif;
 }
 .play:hover{
     background: rgba(90, 89, 89, 0.486);
